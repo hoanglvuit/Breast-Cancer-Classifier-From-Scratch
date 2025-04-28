@@ -1,5 +1,5 @@
 # Breast Cancer Classifier (From Scratch)
-
+Project được lấy ý tưởng từ khóa học Machine Learning specialization Andrew Ng
 ## Mô tả
 Xây dựng mô hình phân loại ung thư vú dựa trên bộ dữ liệu `load_breast_cancer`, **tự lập trình hoàn toàn** từ đầu:
 - Forward propagation
@@ -17,9 +17,3 @@ Không sử dụng thư viện huấn luyện như scikit-learn, TensorFlow, PyT
 - 569 mẫu, 30 đặc trưng
 - 2 nhãn: Malignant (ác tính) và Benign (lành tính)
 
-## Cách chạy
-```bash
-git clone https://github.com/yourusername/breast-cancer-classifier-from-scratch.git
-cd breast-cancer-classifier-from-scratch
-pip install numpy scikit-learn
-python main.py
